@@ -1,2 +1,4 @@
 # Resume
-My resume
+
+Deployed on netlify 
+https://aakanksha-agrawal.netlify.app/
