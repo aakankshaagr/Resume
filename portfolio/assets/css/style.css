@@ -726,7 +726,9 @@ a:hover {
   padding-top: 4rem;
   padding-bottom: 4rem;
 }
-
+.space{
+  padding-top: 84px;
+}
 .about-mf .about-img {
   margin-bottom: 2rem;
 }
